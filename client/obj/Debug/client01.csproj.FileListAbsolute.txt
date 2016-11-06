@@ -1,0 +1,10 @@
+D:\ТРРП\04\client01\bin\Debug\client01.exe.config
+D:\ТРРП\04\client01\obj\Debug\client01.exe
+D:\ТРРП\04\client01\obj\Debug\client01.pdb
+D:\ТРРП\04\client01\bin\Debug\client01.exe
+D:\ТРРП\04\client01\bin\Debug\client01.pdb
+D:\ТРРП\04\client01\obj\Debug\client01.csprojResolveAssemblyReference.cache
+D:\ТРРП\04\client01\obj\Debug\client01.Form1.resources
+D:\ТРРП\04\client01\obj\Debug\client01.Login.resources
+D:\ТРРП\04\client01\obj\Debug\client01.Properties.Resources.resources
+D:\ТРРП\04\client01\obj\Debug\client01.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+D:\ТРРП\04\DBHost\bin\Debug\DBHost.exe.config
+D:\ТРРП\04\DBHost\bin\Debug\DBHost.exe
+D:\ТРРП\04\DBHost\bin\Debug\DBHost.pdb
+D:\ТРРП\04\DBHost\bin\Debug\dbserver.dll
+D:\ТРРП\04\DBHost\bin\Debug\dbserver.pdb
+D:\ТРРП\04\DBHost\obj\Debug\DBHost.exe
+D:\ТРРП\04\DBHost\obj\Debug\DBHost.pdb
+D:\ТРРП\04\DBHost\bin\Debug\server.mdf
+D:\ТРРП\04\DBHost\bin\Debug\server_log.ldf
+D:\ТРРП\04\DBHost\obj\Debug\DBHost.csprojResolveAssemblyReference.cache

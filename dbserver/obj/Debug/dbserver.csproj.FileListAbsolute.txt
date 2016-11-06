@@ -1,0 +1,7 @@
+D:\ТРРП\04\dbserver\bin\Debug\dbserver.dll
+D:\ТРРП\04\dbserver\bin\Debug\dbserver.pdb
+D:\ТРРП\04\dbserver\obj\Debug\dbserver.csprojResolveAssemblyReference.cache
+D:\ТРРП\04\dbserver\obj\Debug\dbserver.dll
+D:\ТРРП\04\dbserver\obj\Debug\dbserver.pdb
+D:\ТРРП\04\dbserver\bin\Debug\server.mdf
+D:\ТРРП\04\dbserver\bin\Debug\server_log.ldf

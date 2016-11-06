@@ -1,0 +1,10 @@
+D:\ТРРП\04\dbserver\gserver\bin\Debug\gserver.exe.config
+D:\ТРРП\04\dbserver\gserver\bin\Debug\gserver.exe
+D:\ТРРП\04\dbserver\gserver\bin\Debug\gserver.pdb
+D:\ТРРП\04\dbserver\gserver\bin\Debug\dbserver.dll
+D:\ТРРП\04\dbserver\gserver\bin\Debug\dbserver.pdb
+D:\ТРРП\04\dbserver\gserver\obj\Debug\gserver.csprojResolveAssemblyReference.cache
+D:\ТРРП\04\dbserver\gserver\obj\Debug\gserver.exe
+D:\ТРРП\04\dbserver\gserver\obj\Debug\gserver.pdb
+D:\ТРРП\04\dbserver\gserver\bin\Debug\server.mdf
+D:\ТРРП\04\dbserver\gserver\bin\Debug\server_log.ldf
